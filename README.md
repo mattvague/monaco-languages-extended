@@ -73,4 +73,5 @@ class MonacoFile extends PureComponent {
 | Elixir    | -                | ✓                |
 | Perl      | -                | ✓                |
 | Python    | ✓                | -                |
+| Maxima    | -                | ✓                |
 | ~~Rust~~  | -                | ✓                |
